@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Al-Fareed
-- 👀 I’m interested in Web Designing and Development, also Anbdroid Programming
-- 🌱 I’m currently learning React JS and Android Programming
+- 👀 I’m a Web Designer and Developer
+- 🌱 MERN stack Developer
 - 📫 mail me alfareedss472@gmail.com
+- 🌎 https://rb.gy/blj5o
 
 <!---
 Al-Fareed/Al-Fareed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
