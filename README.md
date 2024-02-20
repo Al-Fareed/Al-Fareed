@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Al-Fareed
-- 👀 I’m a Web Designer and Developer
+- 👀 I’m a Web Developer and Automation Engineer
 - 🌱 MERN stack Developer,SDET
 - 📫 mail me alfareedss472@gmail.com
 - 🌎 https://al-fareed.netlify.app
