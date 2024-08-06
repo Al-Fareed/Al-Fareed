@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-fareed" alt="al-fareed" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://al-fareed.netlify.app/](https://al-fareed.netlify.app/)
+- 👨‍💻 Check my portfolio [https://al-fareed.netlify.app/](https://al-fareed.netlify.app/)
 
 - 📫 How to reach me **alfareedss472@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/178EAq7ODJ2WqdAm8N2Vx_wNKyX3WSK1D/view](https://drive.google.com/file/d/178EAq7ODJ2WqdAm8N2Vx_wNKyX3WSK1D/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/178EAq7ODJ2WqdAm8N2Vx_wNKyX3WSK1D/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
